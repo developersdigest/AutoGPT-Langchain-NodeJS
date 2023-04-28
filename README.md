@@ -11,26 +11,26 @@ This repository contains a Node.js boilerplate for getting started with AutoGPT 
 ## Getting Started
 
 1. Clone the repository:
-   \```
+   
    git clone https://github.com/your-username/autogpt-langchain-nodejs.git
    cd autogpt-langchain-nodejs
-   \```
+ 
 
 2. Install dependencies:
-   \```
+ 
    npm install langchain hnswlib dotenv
-   \```
+ 
 
 3. Create a `.env` file in the root directory and add your API keys:
-   \```
+ 
    OPENAI_API_KEY=your_openai_api_key
    SERPAPI_API_KEY=your_serp_api_key
-   \```
+
 
 4. Run the `index.js` script to see AutoGPT in action:
-   \```
+
    node index.js
-   \```
+  
 
 ## How It Works
 
