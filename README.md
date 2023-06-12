@@ -2,6 +2,9 @@
 
 This repository contains a Node.js boilerplate for getting started with AutoGPT using Langchain. The project demonstrates how to set up and use the experimental AutoGPT implementation in a Node.js environment. It provides a foundation for building applications that leverage the power of generative language models and external APIs to create dynamic and interactive content.
 
+- link to your video : https://www.youtube.com/watch?v=lwx6ShL-V38
+
+
 ## Prerequisites
 
 - Node.js version 18 or higher
@@ -12,13 +15,13 @@ This repository contains a Node.js boilerplate for getting started with AutoGPT 
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/autogpt-langchain-nodejs.git
-   cd autogpt-langchain-nodejs
+   git clone [https://github.com/your-username/autogpt-langchain-nodejs.git](https://github.com/developersdigest/AutoGPT-Langchain-NodeJS.git)
+   cd AutoGPT-Langchain-NodeJS
  
 
 2. Install dependencies:
  
-   npm install langchain hnswlib dotenv
+   npm install // dependances already in package.json
  
 
 3. Create a `.env` file in the root directory and add your API keys:
